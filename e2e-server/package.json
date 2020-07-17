@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "fastify": "^3.0.3",
+    "fastify-cors": "^4.0.0",
+    "nedb": "^1.8.0",
+    "nodemon": "^2.0.4",
+    "sockjs": "^0.3.20"
+  },
+  "scripts": {
+    "dev": "nodemon index.js"
+  }
+}

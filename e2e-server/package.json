@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "fastify": "^3.0.3",
+    "fastify": "^3.29.4",
     "fastify-cors": "^4.0.0",
     "nedb": "^1.8.0",
     "nodemon": "^2.0.4",
